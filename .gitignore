@@ -1,0 +1,11 @@
+# Ignore IDE project files
+.idea/
+.vscode/
+
+# Ignore frontend build and dependencies
+/frontend/node_modules/
+/frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
